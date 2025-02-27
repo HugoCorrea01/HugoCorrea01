@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Hugo Correa!  
 
-<!--
-**HugoCorrea01/HugoCorrea01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho experiência em **Java, HTML, CSS, SQL, JavaScript e Python**. Busco sempre aprimorar minhas habilidades e construir projetos que agreguem valor.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas:
+- 🔹 **Back-end**: Java, Spring Boot, Node.js  
+- 🔹 **Front-end**: HTML, CSS, JavaScript, React  
+- 🔹 **Banco de Dados**: MySQL, PostgreSQL  
+- 🔹 **DevOps**: Git, GitHub, Docker  
+- 🔹 **Outras ferramentas**: ServiceNow, Electron  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque:
+- 🔗 [WhatsApp Bot](https://github.com/HugoCorrea01/whatsapp-bot-1) - Chatbot interativo para WhatsApp usando `whatsapp-web.js`
+- 🔗 [Sistema de Agendamento](https://github.com/seu-repositorio) - Aplicação em Kotlin para desktop  
+- 🔗 [Painel de Controle Mobile](https://github.com/seu-repositorio) - App Android para gerenciamento de tarefas  
+
+## 📊 Estatísticas do GitHub:
+![Hugo GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCorrea01&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCorrea01&layout=compact&theme=dark)  
+
+## 📫 Como me encontrar:
+📧 **E-mail:** h_rego2812@hotmail.com
+📍 **LinkedIn:** https://www.linkedin.com/in/hugo-farranha-843724268/
+🚀 **Portfólio:** https://hugocorrea.vercel.app/index.html
+
+Se gostou do meu trabalho, sinta-se à vontade para entrar em contato ou contribuir com meus projetos! 😃🚀
