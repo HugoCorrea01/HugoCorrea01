@@ -2,12 +2,16 @@
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho experiência em **Java, Kotlin, Python, HTML, CSS, SQL (Oracle, MySQL, PostgreSQL, SQLite), JavaScript e TypeScript.** Busco sempre aprimorar minhas habilidades e construir projetos que agreguem valor.
 
-🚀 Tecnologias e Ferramentas:
-🔹 Back-end: Java, Kotlin, Python, Spring Boot, Node.js
-🔹 Front-end: HTML, CSS, JavaScript, TypeScript, React
-🔹 Banco de Dados: SQL (Oracle, MySQL, PostgreSQL, SQLite)
-🔹 DevOps: Git, GitHub, Docker
-🔹 Outras ferramentas: ServiceNow, Electron
+## 🚀 Tecnologias e Ferramentas:
+-🔹 Back-end: Java, Kotlin, Python, Spring Boot, Node.js
+
+-🔹 Front-end: HTML, CSS, JavaScript, TypeScript, React
+
+-🔹 Banco de Dados: SQL (Oracle, MySQL, PostgreSQL, SQLite)
+
+-🔹 DevOps: Git, GitHub, Docker
+
+-🔹 Outras ferramentas: ServiceNow, Electron
 
 ## 📌 Projetos em destaque:
 - 🔗 [WhatsApp Bot](https://github.com/HugoCorrea01/whatsapp-bot-1) - Chatbot interativo para WhatsApp usando `whatsapp-web.js`
