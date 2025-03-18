@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Hugo Correa!  
+# 👋 Olá, eu sou o Hugo Farranha!  
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho experiência em **Java, Kotlin, Python, HTML, CSS, SQL (Oracle, MySQL, PostgreSQL, SQLite), JavaScript e TypeScript.** Busco sempre aprimorar minhas habilidades e construir projetos que agreguem valor.
 
@@ -15,8 +15,8 @@
 
 ## 📌 Projetos em destaque:
 - 🔗 [WhatsApp Bot](https://github.com/HugoCorrea01/whatsapp-bot-1) - Chatbot interativo para WhatsApp usando `whatsapp-web.js`
-- 🔗 [Sistema de Agendamento](https://github.com/seu-repositorio) - Aplicação em Kotlin para desktop  
-- 🔗 [Painel de Controle Mobile](https://github.com/seu-repositorio) - App Android para gerenciamento de tarefas  
+- 🔗 [EcoTrack](https://github.com/HugoCorrea01/EcoTrack) - Aplicação em Android para  monitorar e reduzir o consumo de energia
+- 🔗 [Sistema de Agendamento](https://github.com/HugoCorrea01/AgendamentoApp) - App Android para sistema de agendamento
 
 ## 📊 Estatísticas do GitHub:
 ![Hugo GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCorrea01&show_icons=true&theme=dark)  
