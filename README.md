@@ -16,7 +16,7 @@
 ## 📌 Projetos em destaque:
 - 🔗 [WhatsApp Bot](https://github.com/HugoCorrea01/whatsapp-bot-1) - Chatbot interativo para WhatsApp usando `whatsapp-web.js`
 - 🔗 [EcoTrack](https://github.com/HugoCorrea01/EcoTrack) - Aplicação em Android para  monitorar e reduzir o consumo de energia
-- 🔗 [Sistema de Agendamento](https://github.com/HugoCorrea01/AgendamentoApp) - App Android para sistema de agendamento
+- 🔗 [Nutrilog](https://github.com/HugoCorrea01/nutrilog-app) - App Android para uma alimentação mais saudavel 
 
 ## 📊 Estatísticas do GitHub:
 ![Hugo GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoCorrea01&show_icons=true&theme=dark)  
